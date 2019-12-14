@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-hendrik",
+  "version": "1.0.0",
+  "description": "Minimal create-react-app template for my personal projects",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hendriklammers/cra-template-hendrik.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "author": "Hendrik Lammers <lammers@gmail.com> (http://www.hendriklammers.com)",
+  "license": "MIT"
+}
