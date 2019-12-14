@@ -1,6 +1,6 @@
 {
   "name": "cra-template-hendrik",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Minimal create-react-app template for my personal projects",
   "main": "template.json",
   "repository": {
