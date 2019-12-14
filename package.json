@@ -14,5 +14,9 @@
     "typescript"
   ],
   "author": "Hendrik Lammers <lammers@gmail.com> (http://www.hendriklammers.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
